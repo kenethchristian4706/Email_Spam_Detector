@@ -1,5 +1,7 @@
 📧 Email Spam Detector
 
+Demo : https://email-spam-predictor-1.streamlit.app/
+
 An NLP + Machine Learning project to classify emails as Spam 🚨 or Ham ✅ using TfidfVectorizer and Logistic Regression.
 
 The model achieves 95%+ accuracy on the test dataset.
